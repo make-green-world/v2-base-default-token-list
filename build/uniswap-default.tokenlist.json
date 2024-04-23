@@ -14,14 +14,6 @@
   ],
   "tokens": [
     {
-      "chainId": 1,
-      "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
-      "name": "Aave",
-      "symbol": "AAVE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110"
-    },
-    {
       "name": "Wrapped Ether",
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
